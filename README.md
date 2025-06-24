@@ -53,17 +53,17 @@
 <body>
   <div class="container">
     <div class="section">
-      <h2><img src="https://img.icons8.com/ios-filled/50/000000/phone.png"/>Contact</h2>
+      <h2>Contact</h2>
       <p>📍 Navallur, Chennai<br/>
          📞 +91-8695034442<br/>
-         📧 Jegan06199@gmail.com</p>
+         📧 Jeganraj061999@gmail.com</p>
     </div>
     <div class="section">
-      <h2><img src="https://img.icons8.com/ios-filled/50/000000/user.png"/>About Me</h2>
+      <h2>About Me</h2>
       <p>I am a Results-Driven Robotic Process Automation (RPA) Developer with over 3 years of experience in automating business processes using Blue Prism, Selenium, and Python. My expertise lies in designing and implementing automation solutions that enhance workflow efficiency, reduce manual effort, and drive significant cost savings.</p>
     </div>
     <div class="section">
-      <h2><img src="https://img.icons8.com/ios-filled/50/000000/code.png"/>Skills</h2>
+      <h2>Skills</h2>
       <p><strong>RPA Tools:</strong> Blue Prism, Selenium, UI Path<br/>
          <strong>Programming Languages:</strong> Python, Groovy<br/>
          <strong>Database Management:</strong> MSSQL, DB2<br/>
@@ -72,33 +72,34 @@
          <strong>Monitoring & Reporting:</strong> RDC File Monitoring, Excel Reporting</p>
     </div>
     <div class="section">
-      <h2><img src="https://img.icons8.com/ios-filled/50/000000/briefcase.png"/>Experience</h2>
-      <p><strong>Robotic Process Automation Developer</strong><br/>
+      <h2>Experience</h2>
+      <p><strong>Robotic Process Automation Developer (Blue prism)</strong><br/>
          TATA Consultancy Services, Chennai<br/>
-         Dec 2021 – Present<br/><br/>
-         - Developed automation solutions using Blue Prism and Selenium, improving process efficiency by 45%.<br/>
+         Dec 2021 – June 2025<br/><br/>
+        <ui>
+         <li>Developed automation solutions using Blue Prism and python Selenium, improving process efficiency by 45%.</li><br/>
          - Designed workflows using Groovy and Python to streamline operations and reduce manual tasks.<br/>
          - Identified automation opportunities through business process analysis, cutting operational costs by 30%.<br/>
          - Collaborated with cross-functional teams to integrate automation seamlessly into existing systems.</p>
     </div>
     <div class="section">
-      <h2><img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png"/>Education</h2>
+      <h2>Education</h2>
       <p><strong>Bachelor of Engineering – Mechanical Engineering</strong><br/>
          Kongunadu College of Engineering and Technology<br/>
          Graduated: April 2020 | CGPA: 7.37</p>
     </div>
     <div class="section">
-      <h2><img src="https://img.icons8.com/ios-filled/50/000000/project.png"/>Projects</h2>
+      <h2>Projects</h2>
       <p><strong>Client:</strong> STELLANTIS<br/>
-         <strong>Role:</strong> Automation Developer<br/>
-         <strong>Tools Used:</strong> Blue Prism, Selenium, ServiceNow, Groovy, Ignio, Visual Studio Code, SQL Server, Azure<br/><br/>
+         <strong>Role:</strong> Automation Developer (Blue prism)<br/>
+         <strong>Tools Used:</strong> Blue Prism, Selenium, ServiceNow, Groovy, Ignio, SQL Server, Azure<br/><br/>
          <strong>Key Projects:</strong><br/>
-         1. Azure Application Monitoring – Automated API performance tracking and daily reporting, saving 40 hours/month.<br/>
-         2. Web Application Health Monitoring – Implemented live reporting system, saving 200 hours/month.<br/>
-         3. Server Log Monitoring – Real-time log tracking via RDC server with 15-minute notifications, saving 120 hours/month.<br/>
-         4. IBM Application Monitoring – Automated data tracking, saving 20 hours/month.<br/>
-         5. SQL Database Monitoring – Monitored 500+ entries per run with Excel-based reporting, saving 60 hours/month.<br/>
-         6. Incident Handling Automation – Managed incidents via HTTP connections and ServiceNow integration.</p>
+         1. <b>Azure Application Monitoring</b>: Automated API performance tracking and daily reporting, saving 40 hours/month.<br/>
+         2. <b>Web Application Health Monitoring</b>: Implemented live reporting system, saving 200 hours pre-month.<br/>
+         3. <b>Server Log Monitoring</b>: Real-time log tracking via RDC server with 15-minute notifications, saving 120 hours pre-month.<br/>
+         4. <b>IBM Application Monitoring</b> – Automated data tracking, saving 20 hours/month.<br/>
+         5. <b>SQL Database Monitoring</b> – Monitored 500+ entries per run with Excel-based reporting, saving 60 hours/month.<br/>
+         6. <b>Incident Handling Automation</b> – Managed incidents via HTTP connections and ServiceNow integration.</p>
     </div>
   </div>
 </body>
